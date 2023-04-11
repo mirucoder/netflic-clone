@@ -1,0 +1,21 @@
+* {
+	margin: 0;
+	padding: 0;
+}
+
+.App {
+	background-color: #111;
+}
+
+
+
+
+
+/* this is for header style */
+
+.header{
+	background-color: red;
+	color: white;
+	padding: 10px;
+    margin: 10px;
+}
